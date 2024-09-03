@@ -12,8 +12,6 @@ This project implements a Merkle tree-based airdrop mechanism for token distribu
   - [Generate Merkle Root](#generate-merkle-root)
   - [Deploy Contract](#deploy-contract)
 - [Claiming the Airdrop](#claiming-the-airdrop)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -80,8 +78,4 @@ To claim your airdrop:
 
 1. Generate your proof using `merkle.ts`.
 2. Call the `claim` function in the MerkleAirdrop contract, providing your proof and amount.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 

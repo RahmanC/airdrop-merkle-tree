@@ -25,7 +25,7 @@ This project implements a Merkle tree-based airdrop mechanism for token distribu
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/RahmanC/airdrop-merkle-tree](https://github.com/RahmanC/airdrop-merkle-tree)
+   git clone https://github.com/RahmanC/airdrop-merkle-tree.git
    cd merkle-airdrop
    ```
 
